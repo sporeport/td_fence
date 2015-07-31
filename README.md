@@ -19,6 +19,8 @@ but currently features:
 Still to be added:
 
 * Game over screen
+* Human player art
+* animations
 * Bug holes
 * Levels
 * More enemies
